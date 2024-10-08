@@ -1,4 +1,4 @@
-Website Idea is a Virtual Closet 
+Website Idea is a Virtual Closet. 
 Users can create outfits from their own closets to plan out what they want to wear. 
 They can add links to each item to a website that sells the item. Users can also share their created outfits to others. 
 On the home page will be the most recent item they have created, the most used item they have added to their outfits, and the most recently shared outfit.
